@@ -1,0 +1,14 @@
+*.out
+local/
+.env
+dist/
+*.log
+staticfiles/
+uploadedfiles/
+.idea/
+.venv/
+__pycache__/
+*.pyc
+*.sqlite3
+db.sqlite3
+
